@@ -5,7 +5,7 @@ Robot's Move directions:
   * F - forward;
   * B - back;
 
-Robot's turn durections:
+Robot's Turn durections:
   * L - left;
   * R - right;
 

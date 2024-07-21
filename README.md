@@ -1,5 +1,5 @@
 Hello and welcome to this Robot simulation. 
-In this assignment you will be a robot handler. In your powers to determine where the robot would be deployed, where it will move, where it will turn and the size of the romm it will be placed into. 
+In this assignment you will be a robot handler. In your powers to determine where the robot would be deployed, where it will move, where it will turn and the size of the room it will be placed into. 
 
 Robot's Move directions:
   * F - forward;

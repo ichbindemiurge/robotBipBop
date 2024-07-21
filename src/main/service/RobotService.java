@@ -63,7 +63,7 @@ public class RobotService {
             }
         }
 
-        System.out.println("Bip Bop, robot finished its movement. Current position is: " + robot.getXrowCoordinate() + " --- " + robot.getYcolCoordinate());
+        System.out.println("Bip Bop, robot finished its movement. Current position is: " + robot.getXrowCoordinate() + " --- " + robot.getYcolCoordinate() + " " + "Robot is facing: " + robot.getHead());
     }
 
     public boolean validateInput(String validate) {
